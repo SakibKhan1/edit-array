@@ -1,10 +1,3 @@
-/*
-Author: Sakib Khan
-Course: CSCI-135
-Instructor: Tong Yi
-Assignment: Lab 2 C
-This program will use arrays to make an array and gives user the interface to edit any of its elements.
-*/
 #include <iostream>
 using namespace std;
 
